@@ -1,0 +1,20 @@
+{
+    "Menu":[
+        {"id":1,"text":"Reservation","dropdown":[]},
+        {"id":2,"text":"Menu","dropdown":[
+            {"id":1,"text":"Appetizer"},
+            {"id":2,"text":"Main course"},
+            {"id":3,"text":"Desserts"},
+            {"id":4,"text":"Hookah"}
+        ]},
+        {"id":3,"text":"About us","dropdown":[]},
+        {"id":4,"text":"Location","dropdown":[]}
+    ],
+    "product":[
+        {"id":1,"title":"Salad","text":"Caesar Salad","image":"https://taoofspice.com/wp-content/uploads/2022/03/Bowl-of-salad-atop-a-beige-kitchen-twoel-with-lemon-halves-and-a-small-bowl-of-dressing.-720x720.jpg","link":"View Full Menu"},
+        {"id":2,"title":"Burger","text":"Cheese Burger","image":"https://embed.widencdn.net/img/mccormick/uavgzojzpj/840x840px/Frank%E2%80%99s%20Bacon%20Cheeseburger_2019-01-30_9355_TSUCALAS.jpg","link":"View Full Menu"},
+        {"id":3,"title":"Coffee","text":"Espresso Coffee","image":"https://neurosciencenews.com/files/2023/06/coffee-brain-caffeine-neuroscincces.jpg","link":"View Full Menu"},
+        {"id":4,"title":"Cakes","text":"Red Velvet Cake","image":"https://assets.surlatable.com/m/6ae5b930e82d3ed1/72_dpi_webp-REC-505190-Red-Velvet-Layered-Cake.jpg","link":"View Full Menu"}
+    ]
+
+}
